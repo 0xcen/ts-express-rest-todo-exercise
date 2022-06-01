@@ -1,1 +1,2 @@
-# Simple REST api practice with Typescript Node / Express
+# Simple REST api To-do List
+Practicing Typescript with Express 
